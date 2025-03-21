@@ -107,7 +107,7 @@ npm run build
 
 ## 🚀 About Me
 
-Tech-savvy learner/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
+Aditya raj learner/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
 
 ## 🔗 Social Links
 
